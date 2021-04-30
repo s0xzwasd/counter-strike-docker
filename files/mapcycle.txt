@@ -9,6 +9,8 @@ fy_snow
 fy_desert_fortress
 fy_rooftops
 he_glass_2
+he_db_skyarena
+ship_dreamer
 $1000$
 awp_india
 aim_map
